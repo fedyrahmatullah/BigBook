@@ -64,8 +64,8 @@ Bigbook adalah aplikasi sistem informasi manajemen perpustakaan yang dikembangka
 <p align="justify">
  How To Use:<br> 
 </p>
-My First Project at College, develope library database using microsoft access
+My First Project at College, develope library database using microsoft access<br> 
 
-You have to download the microsoft access project on that 
-You have to make sure that you have microsoft access installed on your computer 
+You have to download the microsoft access project on that <br> 
+You have to make sure that you have microsoft access installed on your computer <br> 
 Opened the project and enjoyed it.
